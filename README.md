@@ -1,7 +1,9 @@
 # CNN Image Classification and Streamlit Application
 
 **Author:** Karthik Somaraju
+
 **Dataset:** MNIST (handwritten digits 0 to 9)
+
 **Streamlit app topic:** Student Marks Calculator
 
 ## Overview
