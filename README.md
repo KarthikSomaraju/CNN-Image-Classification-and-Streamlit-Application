@@ -75,14 +75,8 @@ Validation loss starts to rise after epoch 3 while training loss keeps falling, 
    ```
    streamlit run app.py
    ```
-   Then open the local URL shown in the terminal (usually http://localhost:8501).
-
 ## Technologies used
 Python, TensorFlow / Keras, NumPy, Matplotlib, Pandas, Streamlit
 
-## Possible improvements
-- Add a second Conv + Pooling block and Dropout
-- Use EarlyStopping to stop training at the best epoch
-- Add data augmentation (small rotations and shifts)
-- Add a confusion matrix and classification report
-- Extend the Streamlit app to load the trained CNN and recognise an uploaded digit image
+## Google Collab Link
+https://colab.research.google.com/drive/1TCKdA-5AzTiL01DLafqiQNU4GfGQqMxQ?usp=sharing
